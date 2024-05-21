@@ -1,0 +1,1205 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"toggle",
+				"toggleIncentiveBreakdown"
+			],
+			[
+				"incentive",
+				"incentiveFor20MedianHours"
+			],
+			[
+				"curren",
+				"currentSessionPastAdjustment"
+			],
+			[
+				"--color-input",
+				"--color-input-background"
+			],
+			[
+				"clientsess",
+				"clientSessionTime"
+			],
+			[
+				"coachses",
+				"coachSessionTime"
+			],
+			[
+				"coach",
+				"coachTimeZoneIdentifier"
+			],
+			[
+				"clien",
+				"clientSessionDatetime"
+			],
+			[
+				"--color-back",
+				"--color-background-2"
+			],
+			[
+				"unsortedData",
+				"unsortedIntervalData"
+			],
+			[
+				"rightside",
+				"rightSideDataString"
+			],
+			[
+				"righ",
+				"rightOfMiddleIndex"
+			],
+			[
+				"quarterendd",
+				"quarterEndDateAdjusted"
+			],
+			[
+				"quarterpay",
+				"quarterPayDateString"
+			],
+			[
+				"quarterenddate",
+				"quarterEndDateString"
+			],
+			[
+				"quarterstartdate",
+				"quarterStartDateString"
+			],
+			[
+				"quarterend",
+				"quarterEndYear"
+			],
+			[
+				"debug",
+				"debuggerCurrentKey"
+			],
+			[
+				"update",
+				"updateSelectizeTextboxValueTracker"
+			],
+			[
+				"gettime",
+				"getTimeDifferenceUnits"
+			],
+			[
+				"next",
+				"nextChangeIds"
+			],
+			[
+				"selecti",
+				"selectize-dropdown"
+			],
+			[
+				"default",
+				"default-time-zone-touch-warning"
+			],
+			[
+				"validSubkey",
+				"validSubkeyPairs"
+			],
+			[
+				"validsubkey",
+				"validSubkeyPairs"
+			],
+			[
+				"defaul",
+				"defaultSubkeyValue"
+			],
+			[
+				"paddin",
+				"padding-below"
+			],
+			[
+				"mobile",
+				"mobile-hidden"
+			],
+			[
+				"wrap",
+				"word-wrap"
+			],
+			[
+				"pr",
+				"pre-wrap"
+			],
+			[
+				"warp",
+				"word-wrap"
+			],
+			[
+				"input",
+				"setInputSelectionColor"
+			],
+			[
+				"orgi",
+				"original-date"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"minutesP",
+				"minutesPerDay"
+			],
+			[
+				"--color-butt",
+				"--color-button-background"
+			],
+			[
+				"--color",
+				"--color-accent"
+			],
+			[
+				"colo",
+				"accent-color"
+			],
+			[
+				"--color-inpu",
+				"--color-input-background"
+			],
+			[
+				"--color-acce",
+				"--color-accent-1"
+			],
+			[
+				"--color-button-",
+				"--color-button-background"
+			],
+			[
+				"--color-button",
+				"--color-button-outline"
+			],
+			[
+				"am",
+				"am-pm-format-setting"
+			],
+			[
+				"d",
+				"datetimeFormatComponents"
+			],
+			[
+				"build",
+				"build12HourTime"
+			],
+			[
+				"storeDefault",
+				"storeDefaultTier"
+			],
+			[
+				"validate",
+				"validateRadioGroupChecked"
+			],
+			[
+				"outline",
+				"outline-color"
+			],
+			[
+				"validn",
+				"validateNonNegativeNumber"
+			],
+			[
+				"get",
+				"getNumberInput"
+			],
+			[
+				"calculate",
+				"calculateBonusForSingleTier"
+			],
+			[
+				"align",
+				"align-content"
+			],
+			[
+				"quarter",
+				"quarterStartDate"
+			],
+			[
+				"caret",
+				"caret"
+			],
+			[
+				"Non",
+				"validNonNegativeNumber"
+			],
+			[
+				"getDefault",
+				"getDefaultTimeZone"
+			],
+			[
+				"sixMonthHours",
+				"sixMonthHoursNeededAttribute"
+			],
+			[
+				"attribut",
+				"sixMonthAverageAttribute"
+			],
+			[
+				"threemonth",
+				"threeMonthHoursNeeded"
+			],
+			[
+				"opera",
+				"threeMonthAverageOperator"
+			],
+			[
+				"averageHours",
+				"averageHoursBreakdownButton"
+			],
+			[
+				"threeMonthWorke",
+				"threeMonthWorkedHoursElement"
+			],
+			[
+				"getdate",
+				"getDateTimeFormat"
+			],
+			[
+				"timezon",
+				"timeZoneAbbreviation"
+			],
+			[
+				"dateform",
+				"dateFormat"
+			],
+			[
+				"dateFormat",
+				"dateFormatPreview"
+			],
+			[
+				"querySe",
+				"querySelectorAll"
+			],
+			[
+				"dayofthe",
+				"dayOfTheWeekIncluded"
+			],
+			[
+				"dayof",
+				"dayOfTheWeekIncluded"
+			],
+			[
+				"left",
+				"margin-left"
+			],
+			[
+				"flex",
+				"flex"
+			],
+			[
+				"lastchange",
+				"lastChangeUnix"
+			],
+			[
+				"lastcha",
+				"lastChangeUnix"
+			],
+			[
+				"date",
+				"datetimeFormat"
+			],
+			[
+				"nextchang",
+				"nextChangeDatetime"
+			],
+			[
+				"check",
+				"checkIfDomRenderedTool"
+			],
+			[
+				"getElement",
+				"getElementById"
+			],
+			[
+				"toolprep",
+				"toolPreparerButton"
+			],
+			[
+				"--colorbac",
+				"--color-background-2"
+			],
+			[
+				"--color-acc",
+				"--color-accent-1"
+			],
+			[
+				"inline",
+				"inline-flex"
+			],
+			[
+				"justif",
+				"text-justify"
+			],
+			[
+				"--color-but",
+				"--color-button-background"
+			],
+			[
+				"border-bottom",
+				"border-bottom-left-radius"
+			],
+			[
+				"border-radi",
+				"border-top-left-radius"
+			],
+			[
+				"border-star",
+				"border-start-start-radius"
+			],
+			[
+				"border-radius",
+				"border-end-start-radius"
+			],
+			[
+				"border-rai",
+				"border-start-start-radius"
+			],
+			[
+				"space",
+				"space-evenly"
+			],
+			[
+				"alig",
+				"text-align"
+			],
+			[
+				"--disc",
+				"--color-discord"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"ora",
+				"coral"
+			],
+			[
+				"yell",
+				"lightyellow"
+			],
+			[
+				"green",
+				"seagreen"
+			],
+			[
+				"populaterates",
+				"populateRatesForMultiTier"
+			],
+			[
+				"populate",
+				"populateRatesForSingleTier"
+			],
+			[
+				"calculatebonus",
+				"calculateBonusForMultiTierButton"
+			],
+			[
+				"padding",
+				"padding"
+			],
+			[
+				"tier",
+				"tierAdvancementRadioButtonGroupName"
+			],
+			[
+				"cohort",
+				"cohortRadioButtonGroupName"
+			],
+			[
+				"did",
+				"did-coach-advance-tiers"
+			],
+			[
+				"did-co",
+				"did-coach-advance-tiers-no"
+			],
+			[
+				"did-coac",
+				"did-coach-advance-tiers-yes"
+			],
+			[
+				"anch",
+				"text-anchor"
+			],
+			[
+				"quarterEndDate",
+				"quarterEndDateStr"
+			],
+			[
+				"justify",
+				"text-justify"
+			],
+			[
+				"grid-auto",
+				"grid-auto-flow"
+			],
+			[
+				"--color-backgr",
+				"--color-background-2"
+			],
+			[
+				"color",
+				"border-inline-start-color"
+			],
+			[
+				"cohor",
+				"cohort-0-to-5-radio-button"
+			],
+			[
+				"bonus",
+				"bonus-calculator-cohort-selection"
+			],
+			[
+				"--tran",
+				"--transition-duration"
+			],
+			[
+				"--color-",
+				"--color-button-background"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"padding-in",
+				"padding-inline-start"
+			],
+			[
+				"padding-",
+				"padding-inline"
+			],
+			[
+				"--transi",
+				"--theme-transition-duration"
+			],
+			[
+				"threeMonth",
+				"threeMonthWorkedHours"
+			],
+			[
+				"threemo",
+				"threeMonthWorkedHoursElement"
+			],
+			[
+				"sixmonth",
+				"sixMonthWorkedHoursElement"
+			],
+			[
+				"result",
+				"averageHoursResultDiv"
+			],
+			[
+				"div",
+				"workedHoursDiv"
+			],
+			[
+				"elementWorked",
+				"elementWorkedHours3Month"
+			],
+			[
+				"worked",
+				"workedHours3Month"
+			],
+			[
+				"average",
+				"elementAverageHoursResult"
+			],
+			[
+				"rounded",
+				"roundedNumber"
+			],
+			[
+				"element",
+				"elementAverageHoursResult"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/simeo/Home/projects/test/index.html",
+			"settings":
+			{
+				"buffer_size": 400,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					8,
+					1,
+					"left_delete",
+					null,
+					"AQAAAOAAAAAAAAAA4AAAAAAAAACLAAAAPGlucHV0IGlkPSd1c2VyLWlucHV0Jz4KICAgIDxidXR0b24gb25jbGljaz0nYWRkVXNlcklucHV0VG9CdXR0b24oKSc+QWRkIHRvIGJ1dHRvbjwvYnV0dG9uPgogICAgPGJ1dHRvbiBpZD0ndXNlci1pbnB1dC1idXR0b24nPlJ1bjwvYnV0dG9uPg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABrAQAAAAAAAOAAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					9,
+					1,
+					"insert",
+					{
+						"characters": "<M"
+					},
+					"AgAAAOAAAAAAAAAA4QAAAAAAAAAAAAAA4QAAAAAAAADiAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADgAAAAAAAAAOAAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					10,
+					1,
+					"left_delete",
+					null,
+					"AQAAAOEAAAAAAAAA4QAAAAAAAAABAAAATQ",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADiAAAAAAAAAOIAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					11,
+					1,
+					"insert",
+					{
+						"characters": "!--"
+					},
+					"AwAAAOEAAAAAAAAA4gAAAAAAAAAAAAAA4gAAAAAAAADjAAAAAAAAAAAAAADjAAAAAAAAAOQAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADhAAAAAAAAAOEAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					12,
+					1,
+					"insert",
+					{
+						"characters": " content"
+					},
+					"CAAAAOQAAAAAAAAA5QAAAAAAAAAAAAAA5QAAAAAAAADmAAAAAAAAAAAAAADmAAAAAAAAAOcAAAAAAAAAAAAAAOcAAAAAAAAA6AAAAAAAAAAAAAAA6AAAAAAAAADpAAAAAAAAAAAAAADpAAAAAAAAAOoAAAAAAAAAAAAAAOoAAAAAAAAA6wAAAAAAAAAAAAAA6wAAAAAAAADsAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADkAAAAAAAAAOQAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					13,
+					1,
+					"insert",
+					{
+						"characters": " -->"
+					},
+					"BAAAAOwAAAAAAAAA7QAAAAAAAAAAAAAA7QAAAAAAAADuAAAAAAAAAAAAAADuAAAAAAAAAO8AAAAAAAAAAAAAAO8AAAAAAAAA8AAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADsAAAAAAAAAOwAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					14,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAPAAAAAAAAAA8QAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADwAAAAAAAAAPAAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					15,
+					1,
+					"left_delete",
+					null,
+					"AQAAAPAAAAAAAAAA8AAAAAAAAAABAAAAIA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADxAAAAAAAAAPEAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					23,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAPEAAAAAAAAA8gAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADxAAAAAAAAAPEAAAAAAAAAAAAAAADgc0A"
+				],
+				[
+					24,
+					1,
+					"reindent",
+					null,
+					"AQAAAPIAAAAAAAAA9gAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADyAAAAAAAAAPIAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					25,
+					1,
+					"paste_and_indent",
+					null,
+					"AQAAAPYAAAAAAAAAYwEAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAD2AAAAAAAAAPYAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					28,
+					1,
+					"left_delete",
+					null,
+					"AQAAAPEAAAAAAAAA8QAAAAAAAAAUAAAACiAgICA8IS0tIGpRdWVyeSAtLT4",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAFAQAAAAAAAPEAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					31,
+					1,
+					"toggle_comment",
+					{
+						"block": false
+					},
+					"AgAAAE8BAAAAAAAAUwEAAAAAAAAAAAAA9gAAAAAAAAD7AAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAD9AAAAAAAAAP0AAAAAAAAAAAAAAAAA8L8"
+				]
+			]
+		},
+		{
+			"file": "/C/Users/simeo/Home/projects/test/app.css",
+			"settings":
+			{
+				"buffer_size": 54,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/simeo/Home/projects/test/app.js",
+			"settings":
+			{
+				"buffer_size": 0,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					6,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAAAAAAAAAAAAAAAAAAAAADpAAAAZnVuY3Rpb24gYWRkVXNlcklucHV0VG9CdXR0b24oKSB7CiAgICBjb25zdCB1c2VySW5wdXQgPSBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgndXNlci1pbnB1dCcpLnZhbHVlOwogICAgY29uc3QgdXNlcklucHV0QnV0dG9uID0gZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ3VzZXItaW5wdXQtYnV0dG9uJyk7CiAgICB1c2VySW5wdXRCdXR0b24uc2V0QXR0cmlidXRlKCdvbmNsaWNrJywgdXNlcklucHV0KTsKfQo",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADpAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"sync settings: create",
+				"Sync Settings: Create and Upload"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"pane",
+				"Origami: Create Pane Below"
+			],
+			[
+				"destroy",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"origami",
+				"Origami: Create Pane Below"
+			],
+			[
+				"destor",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"destro",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"remove pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove p",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"install pac",
+				"Package Control: Install Package"
+			],
+			[
+				"remove package",
+				"Package Control: Remove Package"
+			],
+			[
+				"open in browser",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"linter",
+				"Preferences: SublimeLinter Settings"
+			],
+			[
+				"pci",
+				"Package Control: Install Package"
+			],
+			[
+				"AutoFoldCode",
+				"AutoFoldCode: Open Settings"
+			],
+			[
+				"auto",
+				"AutoFoldCode: Open Settings"
+			],
+			[
+				"Package",
+				"Preferences: Browse Packages"
+			],
+			[
+				"",
+				"Code Folding: Fold Tag Attributes"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 232.0,
+		"history":
+		[
+			"clear",
+			"result",
+			"total = 0\nfor n in range(1, 20):\n\ttotal += 1/n\n\n\tif total > 3:\n\t\tresult = n\n\t\tbreak",
+			"total",
+			"total = 0\nfor n in range(1, 21):\n\ttotal += 1/n",
+			"total",
+			"total = 0\nfor n in range(1, 101):\n\ttotal += 1/n",
+			"total = 0\nfor n in range(100):\n\ttotal += 1/n",
+			"x",
+			"ClearConsole",
+			"print('\\n' * 100)",
+			"x + 5",
+			"x",
+			"x += 5",
+			"x + 5",
+			"/clear",
+			"/c",
+			"cls",
+			"c",
+			"clear",
+			"x + 1",
+			"x = 5",
+			"clear",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/simeo/Home/projects/test",
+		"/C/Users/simeo/Home/projects/test/images"
+	],
+	"file_history":
+	[
+		"/C/Users/simeo/Home/projects/sim-ulation.github.io/app.js",
+		"/C/Users/simeo/Home/projects/sim-ulation.github.io/app.css",
+		"/C/Users/simeo/Home/projects/sim-ulation.github.io/index.html",
+		"/C/Users/simeo/Home/projects/hgcoach.github.io/scripts/gui/settings.js",
+		"/C/Users/simeo/Home/projects/hgcoach.github.io/scripts/gui/incentivesCalculator.js",
+		"/C/Users/simeo/Home/projects/hgcoach.github.io/scripts/gui/medianHoursCalculator.js",
+		"/C/Users/simeo/Home/projects/hgcoach.github.io/scripts/gui/averageHoursCalculator.js",
+		"/C/Users/simeo/Home/projects/hgcoach.github.io/scripts/gui/dstInfo.js",
+		"/C/Users/simeo/Home/projects/hgcoach.github.io/scripts/gui/timeZoneComparison.js",
+		"/C/Users/simeo/Home/projects/hgcoach.github.io/scripts/gui/timeZoneConverter.js",
+		"/C/Users/simeo/Home/projects/hgcoach.github.io/scripts/data/datetime.js",
+		"/C/Users/simeo/Home/projects/hgcoach.github.io/scripts/data/timeZone.js",
+		"/C/Users/simeo/Home/projects/hgcoach.github.io/scripts/data/theme.js",
+		"/C/Users/simeo/Home/projects/hgcoach.github.io/scripts/storage.js",
+		"/C/Users/simeo/Home/projects/hgcoach.github.io/scripts/utilities.js",
+		"/C/Users/simeo/Home/projects/hgcoach.github.io/scripts/app.js",
+		"/C/Users/simeo/Home/projects/hgcoach.github.io/app.css",
+		"/C/Users/simeo/Home/projects/hgcoach.github.io/content/settings.html",
+		"/C/Users/simeo/Home/projects/hgcoach.github.io/content/incentives-calculator.html",
+		"/C/Users/simeo/Home/projects/hgcoach.github.io/content/median-hours-calculator.html",
+		"/C/Users/simeo/Home/projects/hgcoach.github.io/content/average-hours-calculator.html",
+		"/C/Users/simeo/Home/projects/hgcoach.github.io/content/dst-info.html",
+		"/C/Users/simeo/Home/projects/hgcoach.github.io/content/time-zone-comparison.html",
+		"/C/Users/simeo/Home/projects/hgcoach.github.io/content/time-zone-converter.html",
+		"/C/Users/simeo/Home/projects/hgcoach.github.io/index.html",
+		"/C/Users/simeo/Home/projects/hgcoach.github.io/scripts/gui/dstLookup.js",
+		"/C/Users/simeo/AppData/Roaming/Sublime Text 3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
+		"/C/Users/simeo/Home/projects/hgcoach.github.io/content/dst-lookup.html",
+		"/C/Users/simeo/Home/projects/hgcoach.github.io/test.html",
+		"/C/Users/simeo/Home/projects/hgcoach.github.io/scripts/gui/bonusCalculator.js",
+		"/C/Users/simeo/Home/projects/hgcoach.github.io/scripts/data/cohortAndTier.js",
+		"/C/Users/simeo/Home/projects/hgcoach.github.io/scripts/timeZone.js",
+		"/C/Users/simeo/Home/projects/hgcoach.github.io/LICENSE",
+		"/C/Users/simeo/Home/projects/hgcoach/scripts/settings.js",
+		"/C/Users/simeo/Home/projects/hgcoach/scripts/bonusCalculator.js",
+		"/C/Users/simeo/Home/projects/hgcoach/scripts/averageHoursCalculator.js",
+		"/C/Users/simeo/Home/projects/hgcoach/scripts/dstLookup.js",
+		"/C/Users/simeo/Home/projects/hgcoach/scripts/timeZoneConverter.js",
+		"/C/Users/simeo/Home/projects/hgcoach/content/settings.html",
+		"/C/Users/simeo/Home/projects/hgcoach/content/bonus-calculator.html",
+		"/C/Users/simeo/Home/projects/hgcoach/content/average-hours-calculator.html",
+		"/C/Users/simeo/Home/projects/hgcoach/content/dst-lookup.html",
+		"/C/Users/simeo/Home/projects/hgcoach/content/time-zone-converter.html",
+		"/C/Users/simeo/Home/projects/hgcoach/scripts/datetime.js",
+		"/C/Users/simeo/Home/projects/hgcoach/scripts/timeZone.js",
+		"/C/Users/simeo/Home/projects/hgcoach/scripts/cohortAndTier.js",
+		"/C/Users/simeo/Home/projects/hgcoach/scripts/theme.js",
+		"/C/Users/simeo/Home/projects/hgcoach/scripts/utilities.js",
+		"/C/Users/simeo/Home/projects/hgcoach/scripts/app.js",
+		"/C/Users/simeo/Home/projects/hgcoach/scripts/storage.js",
+		"/C/Users/simeo/Home/projects/hgcoach/app.css",
+		"/C/Users/simeo/Home/projects/hgcoach/index.html",
+		"/C/Users/simeo/Home/projects/hgcoach/content/median-calculator.html",
+		"/C/Users/simeo/Home/projects/hgcoach/scripts/medianCalculator.js",
+		"/C/Users/simeo/Home/projects/hgcoach/README.md",
+		"/C/Users/simeo/Home/projects/hgcoach/content/cohortAndTier.js",
+		"/C/Ruby26-x64/LICENSE.txt",
+		"/C/Users/simeo/Home/projects/hgcoach/scripts/moment-timezone.js",
+		"/C/Users/simeo/Home/projects/hgcoach/scripts/moment.js",
+		"/C/Users/simeo/Home/projects/test/index.html",
+		"/C/Users/simeo/Home/projects/hgcoach/scripts/jquery-3.7.1.js",
+		"/C/Users/simeo/Home/projects/hgcoach/content/when-is-dst.html",
+		"/C/Users/simeo/Home/projects/hgcoach/old.css",
+		"/C/Users/simeo/Home/projects/hgcoach/bonus-calculator.html",
+		"/C/Users/simeo/Home/projects/hgcoach/average-hours-calculator.html",
+		"/C/Users/simeo/Home/projects/hgcoach/when-is-dst.html",
+		"/C/Users/simeo/Home/projects/hgcoach/time-zone-converter.html",
+		"/C/Users/simeo/Home/projects/hgcoach/bonusCalculator.js",
+		"/C/Users/simeo/Home/projects/hgcoach/timezoneCalculator.js",
+		"/C/Users/simeo/Home/projects/hgcoach/averageWeeklyHoursCalculator.js",
+		"/C/Users/simeo/Home/projects/hgcoach/app.js",
+		"/C/Users/simeo/Home/projects/hgcoach/old.html",
+		"/C/Users/simeo/Home/Downloads/tzcode2024a.tar",
+		"/C/Users/simeo/Home/Downloads/tzdb-2024a.tar.lz",
+		"/C/Users/simeo/Home/projects/hgcoach/day.min.js",
+		"/C/Users/simeo/Home/projects/hgcoach/luxon.js",
+		"/C/Users/simeo/Home/projects/hgcoach/luxon2.js",
+		"/C/Users/simeo/Home/projects/package-lock.json",
+		"/C/Users/simeo/Home/projects/package.json",
+		"/C/Users/simeo/AppData/Roaming/Sublime Text 3/Packages/User/View In Browser.sublime-settings",
+		"/C/Users/simeo/AppData/Roaming/Sublime Text 3/Packages/View In Browser/View In Browser.sublime-settings",
+		"/C/Users/simeo/AppData/Roaming/Sublime Text 3/Packages/User/openinbrowser.sublime-settings",
+		"/C/Users/simeo/AppData/Roaming/Sublime Text 3/Settings/SideBarEnhancements.json",
+		"/C/Users/simeo/Home/projects/now_or_never/data/choice.py",
+		"/C/Users/simeo/Home/projects/now_or_never/data/choices.py",
+		"/C/Users/simeo/Home/projects/now_or_never/data/intention.py",
+		"/C/Users/simeo/Home/projects/now_or_never/data/intentions.py",
+		"/C/Users/simeo/Home/projects/now_or_never/data/settings.py",
+		"/C/Users/simeo/Home/projects/now_or_never/data/save_data.py",
+		"/C/Users/simeo/Home/projects/now_or_never/data/storage.py",
+		"/C/Users/simeo/Home/projects/now_or_never/user.py",
+		"/C/Users/simeo/Home/projects/now_or_never/app.py",
+		"/C/Users/simeo/Home/projects/now_or_never/dependency_hierarchy.txt",
+		"/C/Users/simeo/Home/projects/choice_log/app.py",
+		"/C/Users/simeo/Home/projects/hg_tools_website/app.css",
+		"/C/Users/simeo/Home/projects/hg_tools_website/app.js",
+		"/C/Users/simeo/Home/projects/hg_tools_website/index.html",
+		"/C/Users/simeo/Home/projects/old/average_hours_calculator/average_hours_calculator.py",
+		"/C/Users/simeo/Home/projects/now_or_never/data/filepaths.py",
+		"/E/Steam Reservoir/steamapps/common/Skyrim Special Edition/ControlMap_Custom.txt",
+		"/C/Users/simeo/Home/projects/now_or_never/data/settings/settings.csv",
+		"/C/Users/simeo/Home/projects/now_or_never/data/userdata.py",
+		"/C/Users/simeo/Home/projects/project/app.py",
+		"/C/Program Files/Git/etc/profile.d/aliases.sh",
+		"/C/Users/simeo/Home/projects/now_or_never/tests/test_sum/__init__.py",
+		"/C/Users/simeo/Home/projects/now_or_never/test/tests/pytest.ini",
+		"/C/Users/simeo/Home/projects/now_or_never/test/tests/conftest.py",
+		"/C/Users/simeo/Home/projects/now_or_never/test/tests/test_another_sum.py",
+		"/C/Users/simeo/Home/projects/now_or_never/test/tests/__init__.py",
+		"/C/Users/simeo/Home/projects/now_or_never/test/sum/another_sum.py",
+		"/C/Users/simeo/Home/projects/now_or_never/test/sum/__init__.py",
+		"/C/Users/simeo/Home/projects/now_or_never/requirements.txt",
+		"/C/Program Files/Git/etc/profile.d/env.sh",
+		"/C/Users/simeo/.bash_profile",
+		"/C/Program Files/Git/etc/profile.d/git-prompt.sh",
+		"/C/Users/simeo/.bashrc",
+		"/C/Users/simeo/Home/projects/requirements.txt",
+		"/C/Users/simeo/AppData/Local/Programs/Python/Python312/Scripts/virtualenvwrapper.sh",
+		"/C/Users/simeo/Home/Programming/now_or_never/app.py",
+		"/C/Users/simeo/Home/Programming/now_or_never/data/intention.py",
+		"/C/Users/simeo/Home/Programming/now_or_never/data/settings.py",
+		"/C/Users/simeo/Home/Programming/now_or_never/user.py",
+		"/C/Users/simeo/Home/Programming/Git Bash files/old/git-prompt.sh",
+		"/C/Users/simeo/.minttyrc",
+		"/C/Users/simeo/Home/Downloads/git-prompt.sh",
+		"/C/Program Files/Git/etc/profile.d/perlbin.sh",
+		"/C/Program Files/Git/etc/profile.d/bash_profile.sh",
+		"/C/Program Files/Git/etc/profile"
+	],
+	"find":
+	{
+		"height": 29.3333333333
+	},
+	"find_in_files":
+	{
+		"height": 132.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": false,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/simeo/Home/projects/test/index.html",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 400,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								400,
+								400
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "/C/Users/simeo/Home/projects/test/app.css",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 54,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								54,
+								54
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/simeo/Home/projects/test/app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.3333333333
+	},
+	"input":
+	{
+		"height": 46.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 138.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "sim-ulation.sublime-project",
+	"replace":
+	{
+		"height": 54.6666666667
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.666666667,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.666666667
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 253.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
